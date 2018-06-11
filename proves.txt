@@ -2,5 +2,7 @@ PROVES
 
 CHAPTER 1
 
-  Lisa:
-  Charles:
+  Lisa: Hi Charles
+  Charles: Hi Lisa
+
+  CHAPTER 2
